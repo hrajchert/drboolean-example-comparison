@@ -1,5 +1,5 @@
 {
-  "name": "drboolean-example-ts",
+  "name": "drboolean-example-comparison",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -29,6 +29,8 @@
     "data.either": "^1.5.2",
     "data.task": "^3.1.2",
     "fantasy-identities": "0.0.1",
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
     "request": "^2.88.0",
     "tsns": "0.0.18",
     "typescript": "3.0.1"
